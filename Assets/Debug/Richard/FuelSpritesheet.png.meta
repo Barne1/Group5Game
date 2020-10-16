@@ -1,0 +1,6574 @@
+fileFormatVersion: 2
+guid: 361e19abf16a6f7448aedad519aa941c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -35927782428941117
+    second: FuelSpritesheet_0
+  - first:
+      213: -3641932035000012559
+    second: FuelSpritesheet_1
+  - first:
+      213: -6873063361777273737
+    second: FuelSpritesheet_2
+  - first:
+      213: -3811080567248835563
+    second: FuelSpritesheet_3
+  - first:
+      213: 4271286218832176090
+    second: FuelSpritesheet_4
+  - first:
+      213: -4942451318215149903
+    second: FuelSpritesheet_5
+  - first:
+      213: 7225276022266106004
+    second: FuelSpritesheet_6
+  - first:
+      213: 4769835604921201271
+    second: FuelSpritesheet_7
+  - first:
+      213: 273839463573022466
+    second: FuelSpritesheet_8
+  - first:
+      213: 56333885666584577
+    second: FuelSpritesheet_9
+  - first:
+      213: 7150588436861867955
+    second: FuelSpritesheet_10
+  - first:
+      213: 1862070146332515869
+    second: FuelSpritesheet_11
+  - first:
+      213: -3291921815130522517
+    second: FuelSpritesheet_12
+  - first:
+      213: -1882754807943692846
+    second: FuelSpritesheet_13
+  - first:
+      213: 7712288926576516666
+    second: FuelSpritesheet_14
+  - first:
+      213: 8555008745513710690
+    second: FuelSpritesheet_15
+  - first:
+      213: -4197885789241827233
+    second: FuelSpritesheet_16
+  - first:
+      213: -1415917416139320751
+    second: FuelSpritesheet_17
+  - first:
+      213: -5716863962301465551
+    second: FuelSpritesheet_18
+  - first:
+      213: 3046710111747219534
+    second: FuelSpritesheet_19
+  - first:
+      213: 7728036521500681933
+    second: FuelSpritesheet_20
+  - first:
+      213: 8055082797321144809
+    second: FuelSpritesheet_21
+  - first:
+      213: 1656577000274382675
+    second: FuelSpritesheet_22
+  - first:
+      213: -717053541525054337
+    second: FuelSpritesheet_23
+  - first:
+      213: -6001251250436876599
+    second: FuelSpritesheet_24
+  - first:
+      213: 1145861609886209340
+    second: FuelSpritesheet_25
+  - first:
+      213: 8798134002619530506
+    second: FuelSpritesheet_26
+  - first:
+      213: 2912477201994684265
+    second: FuelSpritesheet_27
+  - first:
+      213: -8220781447334190073
+    second: FuelSpritesheet_28
+  - first:
+      213: -2736742245168707793
+    second: FuelSpritesheet_29
+  - first:
+      213: -3212902186460395895
+    second: FuelSpritesheet_30
+  - first:
+      213: -4701748945227705547
+    second: FuelSpritesheet_31
+  - first:
+      213: -3643651187777590872
+    second: FuelSpritesheet_32
+  - first:
+      213: -5657949589819734761
+    second: FuelSpritesheet_33
+  - first:
+      213: 7313248296543158045
+    second: FuelSpritesheet_34
+  - first:
+      213: 3042824130412997363
+    second: FuelSpritesheet_35
+  - first:
+      213: -4128998576348422233
+    second: FuelSpritesheet_36
+  - first:
+      213: 8083042442691796439
+    second: FuelSpritesheet_37
+  - first:
+      213: 6945597206576003941
+    second: FuelSpritesheet_38
+  - first:
+      213: -6668579673926743146
+    second: FuelSpritesheet_39
+  - first:
+      213: 818366677883041747
+    second: FuelSpritesheet_40
+  - first:
+      213: -878222322802703504
+    second: FuelSpritesheet_41
+  - first:
+      213: -3181761787889815779
+    second: FuelSpritesheet_42
+  - first:
+      213: 627794295445312584
+    second: FuelSpritesheet_43
+  - first:
+      213: 6604546934974906802
+    second: FuelSpritesheet_44
+  - first:
+      213: 540601472090923356
+    second: FuelSpritesheet_45
+  - first:
+      213: -1912773286126783720
+    second: FuelSpritesheet_46
+  - first:
+      213: 7939727150693527859
+    second: FuelSpritesheet_47
+  - first:
+      213: 7668098314169310226
+    second: FuelSpritesheet_48
+  - first:
+      213: 3827260485389446567
+    second: FuelSpritesheet_49
+  - first:
+      213: -4095578593627233119
+    second: FuelSpritesheet_50
+  - first:
+      213: 360015657554041727
+    second: FuelSpritesheet_51
+  - first:
+      213: 5841797886489785631
+    second: FuelSpritesheet_52
+  - first:
+      213: -6448731060020116873
+    second: FuelSpritesheet_53
+  - first:
+      213: -1323794183358352829
+    second: FuelSpritesheet_54
+  - first:
+      213: 1202067790222745884
+    second: FuelSpritesheet_55
+  - first:
+      213: 2824488737007255876
+    second: FuelSpritesheet_56
+  - first:
+      213: 559320103010350602
+    second: FuelSpritesheet_57
+  - first:
+      213: 6042612535929167623
+    second: FuelSpritesheet_58
+  - first:
+      213: 1915936873417779129
+    second: FuelSpritesheet_59
+  - first:
+      213: -4322311805491492652
+    second: FuelSpritesheet_60
+  - first:
+      213: -9139501659336473468
+    second: FuelSpritesheet_61
+  - first:
+      213: -4932236906269418797
+    second: FuelSpritesheet_62
+  - first:
+      213: -5507257333320173192
+    second: FuelSpritesheet_63
+  - first:
+      213: -4513362006935074125
+    second: FuelSpritesheet_64
+  - first:
+      213: 5107778929671626475
+    second: FuelSpritesheet_65
+  - first:
+      213: -4296924658561907308
+    second: FuelSpritesheet_66
+  - first:
+      213: 8498435832170916471
+    second: FuelSpritesheet_67
+  - first:
+      213: -7166523015406352974
+    second: FuelSpritesheet_68
+  - first:
+      213: 2062537110629063944
+    second: FuelSpritesheet_69
+  - first:
+      213: 5302321228766865192
+    second: FuelSpritesheet_70
+  - first:
+      213: 1594318368117535591
+    second: FuelSpritesheet_71
+  - first:
+      213: -3567484901248756374
+    second: FuelSpritesheet_72
+  - first:
+      213: 7695339050017778218
+    second: FuelSpritesheet_73
+  - first:
+      213: -6092322949107291335
+    second: FuelSpritesheet_74
+  - first:
+      213: 5504006419548507584
+    second: FuelSpritesheet_75
+  - first:
+      213: -5428911936682162736
+    second: FuelSpritesheet_76
+  - first:
+      213: -5602166024404226219
+    second: FuelSpritesheet_77
+  - first:
+      213: -1406634352917230614
+    second: FuelSpritesheet_78
+  - first:
+      213: 1017930297315487371
+    second: FuelSpritesheet_79
+  - first:
+      213: -268074203495472103
+    second: FuelSpritesheet_80
+  - first:
+      213: -6786291520967622115
+    second: FuelSpritesheet_81
+  - first:
+      213: 3252594974849636017
+    second: FuelSpritesheet_82
+  - first:
+      213: 3680228584408488835
+    second: FuelSpritesheet_83
+  - first:
+      213: 5655367778295635008
+    second: FuelSpritesheet_84
+  - first:
+      213: -2128501955326595631
+    second: FuelSpritesheet_85
+  - first:
+      213: -6843394953691448203
+    second: FuelSpritesheet_86
+  - first:
+      213: -1471137146788524410
+    second: FuelSpritesheet_87
+  - first:
+      213: -6820241613009627721
+    second: FuelSpritesheet_88
+  - first:
+      213: -3243270093784834255
+    second: FuelSpritesheet_89
+  - first:
+      213: -1104052522897257990
+    second: FuelSpritesheet_90
+  - first:
+      213: 667551717381833645
+    second: FuelSpritesheet_91
+  - first:
+      213: -8034798085516400519
+    second: FuelSpritesheet_92
+  - first:
+      213: -558552228922564882
+    second: FuelSpritesheet_93
+  - first:
+      213: -8511148381792668216
+    second: FuelSpritesheet_94
+  - first:
+      213: 4104073144126668282
+    second: FuelSpritesheet_95
+  - first:
+      213: -4657352169973714574
+    second: FuelSpritesheet_96
+  - first:
+      213: -5721127907177435737
+    second: FuelSpritesheet_97
+  - first:
+      213: -8263075971102409374
+    second: FuelSpritesheet_98
+  - first:
+      213: -1878896927133107983
+    second: FuelSpritesheet_99
+  - first:
+      213: 98521077673167796
+    second: FuelSpritesheet_100
+  - first:
+      213: -6923825400897713561
+    second: FuelSpritesheet_101
+  - first:
+      213: 8809081525823859868
+    second: FuelSpritesheet_102
+  - first:
+      213: -4638031640699526437
+    second: FuelSpritesheet_103
+  - first:
+      213: 6757139342021689469
+    second: FuelSpritesheet_104
+  - first:
+      213: -8658644850894007235
+    second: FuelSpritesheet_105
+  - first:
+      213: 5873568020516731122
+    second: FuelSpritesheet_106
+  - first:
+      213: -7041331243894486452
+    second: FuelSpritesheet_107
+  - first:
+      213: -6961894260652922539
+    second: FuelSpritesheet_108
+  - first:
+      213: 3019492917194440937
+    second: FuelSpritesheet_109
+  - first:
+      213: -529101962039339341
+    second: FuelSpritesheet_110
+  - first:
+      213: -2832652411952763559
+    second: FuelSpritesheet_111
+  - first:
+      213: 6477361271515632108
+    second: FuelSpritesheet_112
+  - first:
+      213: 2646687251026506554
+    second: FuelSpritesheet_113
+  - first:
+      213: -6135512403123680599
+    second: FuelSpritesheet_114
+  - first:
+      213: -7782010428760351452
+    second: FuelSpritesheet_115
+  - first:
+      213: 7625168931575570949
+    second: FuelSpritesheet_116
+  - first:
+      213: 591349529544421437
+    second: FuelSpritesheet_117
+  - first:
+      213: -3182009146030105917
+    second: FuelSpritesheet_118
+  - first:
+      213: -948590198955384902
+    second: FuelSpritesheet_119
+  - first:
+      213: -7234571063225075228
+    second: FuelSpritesheet_120
+  - first:
+      213: -8191911581333669956
+    second: FuelSpritesheet_121
+  - first:
+      213: -6498544124739528482
+    second: FuelSpritesheet_122
+  - first:
+      213: 4168480900294369546
+    second: FuelSpritesheet_123
+  - first:
+      213: 1686589397609769652
+    second: FuelSpritesheet_124
+  - first:
+      213: -8127070277058045436
+    second: FuelSpritesheet_125
+  - first:
+      213: 1328541390347256605
+    second: FuelSpritesheet_126
+  - first:
+      213: -8974945943945389754
+    second: FuelSpritesheet_127
+  - first:
+      213: -8476480361051832293
+    second: FuelSpritesheet_128
+  - first:
+      213: 8085945456731201957
+    second: FuelSpritesheet_129
+  - first:
+      213: 1416436331389795117
+    second: FuelSpritesheet_130
+  - first:
+      213: 1837570335494240118
+    second: FuelSpritesheet_131
+  - first:
+      213: 1598220867694634941
+    second: FuelSpritesheet_132
+  - first:
+      213: 3297804581548055961
+    second: FuelSpritesheet_133
+  - first:
+      213: -2387004995434199046
+    second: FuelSpritesheet_134
+  - first:
+      213: -392505755489205320
+    second: FuelSpritesheet_135
+  - first:
+      213: 9072069271346554525
+    second: FuelSpritesheet_136
+  - first:
+      213: 3791017374233622316
+    second: FuelSpritesheet_137
+  - first:
+      213: -398334391181375915
+    second: FuelSpritesheet_138
+  - first:
+      213: -9192246348383619608
+    second: FuelSpritesheet_139
+  - first:
+      213: -5824861173387194017
+    second: FuelSpritesheet_140
+  - first:
+      213: 7642589198353024690
+    second: FuelSpritesheet_141
+  - first:
+      213: 2879585716771167173
+    second: FuelSpritesheet_142
+  - first:
+      213: -8032499533678196014
+    second: FuelSpritesheet_143
+  - first:
+      213: 8395072071052513216
+    second: FuelSpritesheet_144
+  - first:
+      213: 8056542173655458369
+    second: FuelSpritesheet_145
+  - first:
+      213: -3220192921407020344
+    second: FuelSpritesheet_146
+  - first:
+      213: -5228105878640342296
+    second: FuelSpritesheet_147
+  - first:
+      213: -8841554712488828482
+    second: FuelSpritesheet_148
+  - first:
+      213: 1258221280758357738
+    second: FuelSpritesheet_149
+  - first:
+      213: -1688489671984778693
+    second: FuelSpritesheet_150
+  - first:
+      213: 3043611903234026773
+    second: FuelSpritesheet_151
+  - first:
+      213: 7342527662151569416
+    second: FuelSpritesheet_152
+  - first:
+      213: -551461272923212446
+    second: FuelSpritesheet_153
+  - first:
+      213: -1726703033817812217
+    second: FuelSpritesheet_154
+  - first:
+      213: 4874397428315348187
+    second: FuelSpritesheet_155
+  - first:
+      213: -8520502240673225591
+    second: FuelSpritesheet_156
+  - first:
+      213: 7055870165442026842
+    second: FuelSpritesheet_157
+  - first:
+      213: -1111270132406260602
+    second: FuelSpritesheet_158
+  - first:
+      213: 1475921328537132342
+    second: FuelSpritesheet_159
+  - first:
+      213: -6390121977311915886
+    second: FuelSpritesheet_160
+  - first:
+      213: -5032142404506842392
+    second: FuelSpritesheet_161
+  - first:
+      213: -5016994808472963724
+    second: FuelSpritesheet_162
+  - first:
+      213: 3653574105236618513
+    second: FuelSpritesheet_163
+  - first:
+      213: -1322707354140177740
+    second: FuelSpritesheet_164
+  - first:
+      213: 7701887905737144260
+    second: FuelSpritesheet_165
+  - first:
+      213: -2636764044220312295
+    second: FuelSpritesheet_166
+  - first:
+      213: 847972156084462870
+    second: FuelSpritesheet_167
+  - first:
+      213: -6049806944094621189
+    second: FuelSpritesheet_168
+  - first:
+      213: 4497828780918676433
+    second: FuelSpritesheet_169
+  - first:
+      213: 3394795944378418581
+    second: FuelSpritesheet_170
+  - first:
+      213: -4634566690216775017
+    second: FuelSpritesheet_171
+  - first:
+      213: -8664613118853229181
+    second: FuelSpritesheet_172
+  - first:
+      213: 637155997577909506
+    second: FuelSpritesheet_173
+  - first:
+      213: -4334652743503931732
+    second: FuelSpritesheet_174
+  - first:
+      213: -5197208932491913359
+    second: FuelSpritesheet_175
+  - first:
+      213: 8639751383330996346
+    second: FuelSpritesheet_176
+  - first:
+      213: -4197097442106772867
+    second: FuelSpritesheet_177
+  - first:
+      213: -8240609655309462502
+    second: FuelSpritesheet_178
+  - first:
+      213: -2923027537168735656
+    second: FuelSpritesheet_179
+  - first:
+      213: -5130283146520699391
+    second: FuelSpritesheet_180
+  - first:
+      213: 5426684417151454747
+    second: FuelSpritesheet_181
+  - first:
+      213: 6767281407189315555
+    second: FuelSpritesheet_182
+  - first:
+      213: 8068992112654620614
+    second: FuelSpritesheet_183
+  - first:
+      213: -7724692822312273420
+    second: FuelSpritesheet_184
+  - first:
+      213: 5833783788842033310
+    second: FuelSpritesheet_185
+  - first:
+      213: -7147899759131901519
+    second: FuelSpritesheet_186
+  - first:
+      213: 4609422166073486429
+    second: FuelSpritesheet_187
+  - first:
+      213: -3248570325970881781
+    second: FuelSpritesheet_188
+  - first:
+      213: 439630887502217994
+    second: FuelSpritesheet_189
+  - first:
+      213: -2343650278008266444
+    second: FuelSpritesheet_190
+  - first:
+      213: -92510639501669181
+    second: FuelSpritesheet_191
+  - first:
+      213: -1729982263628862014
+    second: FuelSpritesheet_192
+  - first:
+      213: 4363726622412293213
+    second: FuelSpritesheet_193
+  - first:
+      213: -8078052426801106421
+    second: FuelSpritesheet_194
+  - first:
+      213: -5256065217432390986
+    second: FuelSpritesheet_195
+  - first:
+      213: 1319297071585392180
+    second: FuelSpritesheet_196
+  - first:
+      213: 4782912180640633375
+    second: FuelSpritesheet_197
+  - first:
+      213: 4692702772881476707
+    second: FuelSpritesheet_198
+  - first:
+      213: -2001907403339501579
+    second: FuelSpritesheet_199
+  - first:
+      213: -3757603053340578281
+    second: FuelSpritesheet_200
+  - first:
+      213: 3730210589469338083
+    second: FuelSpritesheet_201
+  - first:
+      213: 6274651629204159137
+    second: FuelSpritesheet_202
+  - first:
+      213: -314207766796051733
+    second: FuelSpritesheet_203
+  - first:
+      213: -5699616582779775787
+    second: FuelSpritesheet_204
+  - first:
+      213: 2538628704506537332
+    second: FuelSpritesheet_205
+  - first:
+      213: 1969837205033034847
+    second: FuelSpritesheet_206
+  - first:
+      213: -2802791104655059590
+    second: FuelSpritesheet_207
+  - first:
+      213: -2485924342995078477
+    second: FuelSpritesheet_208
+  - first:
+      213: -7167558117926950217
+    second: FuelSpritesheet_209
+  - first:
+      213: 7733650579367684190
+    second: FuelSpritesheet_210
+  - first:
+      213: 6240248642182344075
+    second: FuelSpritesheet_211
+  - first:
+      213: 5477438434129789610
+    second: FuelSpritesheet_212
+  - first:
+      213: -2364087153669431872
+    second: FuelSpritesheet_213
+  - first:
+      213: -5318419344216094809
+    second: FuelSpritesheet_214
+  - first:
+      213: 4303557074288536385
+    second: FuelSpritesheet_215
+  - first:
+      213: 7060512291968971930
+    second: FuelSpritesheet_216
+  - first:
+      213: -3303600915564116616
+    second: FuelSpritesheet_217
+  - first:
+      213: -5395910371245628919
+    second: FuelSpritesheet_218
+  - first:
+      213: 1176207824590069508
+    second: FuelSpritesheet_219
+  - first:
+      213: -172241251467544111
+    second: FuelSpritesheet_220
+  - first:
+      213: 7909844666767622532
+    second: FuelSpritesheet_221
+  - first:
+      213: 2235262150660930362
+    second: FuelSpritesheet_222
+  - first:
+      213: 4611116323896601519
+    second: FuelSpritesheet_223
+  - first:
+      213: -7023945316103075215
+    second: FuelSpritesheet_224
+  - first:
+      213: 733194472163337335
+    second: FuelSpritesheet_225
+  - first:
+      213: -5394230350555573558
+    second: FuelSpritesheet_226
+  - first:
+      213: -6633803821330322890
+    second: FuelSpritesheet_227
+  - first:
+      213: 5231839777456336665
+    second: FuelSpritesheet_228
+  - first:
+      213: -400849564388680172
+    second: FuelSpritesheet_229
+  - first:
+      213: 1904808341334295544
+    second: FuelSpritesheet_230
+  - first:
+      213: 2444482477980630084
+    second: FuelSpritesheet_231
+  - first:
+      213: -7300464675182358170
+    second: FuelSpritesheet_232
+  - first:
+      213: 6983068976414469070
+    second: FuelSpritesheet_233
+  - first:
+      213: 1216619502373101753
+    second: FuelSpritesheet_234
+  - first:
+      213: 1797373244203576174
+    second: FuelSpritesheet_235
+  - first:
+      213: 3637302513856409654
+    second: FuelSpritesheet_236
+  - first:
+      213: -2677760129929735685
+    second: FuelSpritesheet_237
+  - first:
+      213: -7611182400643724611
+    second: FuelSpritesheet_238
+  - first:
+      213: 253161069669396780
+    second: FuelSpritesheet_239
+  - first:
+      213: -274570138783007453
+    second: FuelSpritesheet_240
+  - first:
+      213: -2222038374803011690
+    second: FuelSpritesheet_241
+  - first:
+      213: -7596540357241303025
+    second: FuelSpritesheet_242
+  - first:
+      213: 1062388217894801058
+    second: FuelSpritesheet_243
+  - first:
+      213: -8325906624644606844
+    second: FuelSpritesheet_244
+  - first:
+      213: 1051185153158661267
+    second: FuelSpritesheet_245
+  - first:
+      213: -6508618969545659369
+    second: FuelSpritesheet_246
+  - first:
+      213: -3426168759509606499
+    second: FuelSpritesheet_247
+  - first:
+      213: 3745326928320298893
+    second: FuelSpritesheet_248
+  - first:
+      213: 3453322347077282426
+    second: FuelSpritesheet_249
+  - first:
+      213: -4071375509020666229
+    second: FuelSpritesheet_250
+  - first:
+      213: -8901911520268954064
+    second: FuelSpritesheet_251
+  - first:
+      213: -8855569681825933226
+    second: FuelSpritesheet_252
+  - first:
+      213: 6161662595900902372
+    second: FuelSpritesheet_253
+  - first:
+      213: 1839856376307771425
+    second: FuelSpritesheet_254
+  - first:
+      213: -1046396194003367077
+    second: FuelSpritesheet_255
+  - first:
+      213: 4290012369194444769
+    second: FuelSpritesheet_256
+  - first:
+      213: 3678962190382751321
+    second: FuelSpritesheet_257
+  - first:
+      213: 7020232337459511088
+    second: FuelSpritesheet_258
+  - first:
+      213: -6355278657362320599
+    second: FuelSpritesheet_259
+  - first:
+      213: 8146289205298967119
+    second: FuelSpritesheet_260
+  - first:
+      213: -7518192558323875982
+    second: FuelSpritesheet_261
+  - first:
+      213: 69274895918889709
+    second: FuelSpritesheet_262
+  - first:
+      213: 1015056294610162077
+    second: FuelSpritesheet_263
+  - first:
+      213: -2386877950759070888
+    second: FuelSpritesheet_264
+  - first:
+      213: 4873967469466566889
+    second: FuelSpritesheet_265
+  - first:
+      213: 7215374486715565131
+    second: FuelSpritesheet_266
+  - first:
+      213: 8298430788830691401
+    second: FuelSpritesheet_267
+  - first:
+      213: 6446022775131047166
+    second: FuelSpritesheet_268
+  - first:
+      213: -1479188433196174681
+    second: FuelSpritesheet_269
+  - first:
+      213: -6384231071799456084
+    second: FuelSpritesheet_270
+  - first:
+      213: 8238688751851941020
+    second: FuelSpritesheet_271
+  - first:
+      213: 8387450225223663990
+    second: FuelSpritesheet_272
+  - first:
+      213: -3349071157629559735
+    second: FuelSpritesheet_273
+  - first:
+      213: -7159548622380958128
+    second: FuelSpritesheet_274
+  - first:
+      213: 2393034136782716127
+    second: FuelSpritesheet_275
+  - first:
+      213: 4926677343801793273
+    second: FuelSpritesheet_276
+  - first:
+      213: -7943998481716700501
+    second: FuelSpritesheet_277
+  - first:
+      213: -6917589247335242299
+    second: FuelSpritesheet_278
+  - first:
+      213: 8588745737532280276
+    second: FuelSpritesheet_279
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FuelSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6413
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c461ca4fdb508ff0800000000000000
+      internalID: -35927782428941117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 6413
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f075b52c12457dc0800000000000000
+      internalID: -3641932035000012559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6413
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774738a9949fd90a0800000000000000
+      internalID: -6873063361777273737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 6413
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2db28a625c1bc0800000000000000
+      internalID: -3811080567248835563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 6413
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3638f8f28a64b30800000000000000
+      internalID: 4271286218832176090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6292
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6ff1a56b2e86bb0800000000000000
+      internalID: -4942451318215149903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 6292
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4909157d246554460800000000000000
+      internalID: 7225276022266106004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6292
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b654063cd13240800000000000000
+      internalID: 4769835604921201271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 6292
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207e0cf8a8fdcc300800000000000000
+      internalID: 273839463573022466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 6292
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10869fbde5328c000800000000000000
+      internalID: 56333885666584577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6171
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7da224c4efb3360800000000000000
+      internalID: 7150588436861867955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 6171
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e5203bee667d910800000000000000
+      internalID: 1862070146332515869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6171
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c39ccec8eb052d0800000000000000
+      internalID: -3291921815130522517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 6171
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd7b593a7c1fd5e0800000000000000
+      internalID: -1882754807943692846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 6171
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e95c1daed870b60800000000000000
+      internalID: 7712288926576516666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6050
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26474bea02f79b670800000000000000
+      internalID: 8555008745513710690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 6050
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50a494bd1d1eb5c0800000000000000
+      internalID: -4197885789241827233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6050
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1521ab3ac96a95ce0800000000000000
+      internalID: -1415917416139320751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 6050
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cf9c9f38e99a0b0800000000000000
+      internalID: -5716863962301465551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 6050
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a84854b6184a20800000000000000
+      internalID: 3046710111747219534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5929
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62b4b75408f3b60800000000000000
+      internalID: 7728036521500681933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5929
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9cfa2602769cf60800000000000000
+      internalID: 8055082797321144809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5929
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fcf6c31085df610800000000000000
+      internalID: 1656577000274382675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5929
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c96746a938c06f0800000000000000
+      internalID: -717053541525054337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 5929
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c657d1a8c547bca0800000000000000
+      internalID: -6001251250436876599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5808
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35560b201be6ef00800000000000000
+      internalID: 1145861609886209340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5808
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d3c68c240491a70800000000000000
+      internalID: 8798134002619530506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5808
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967115195923b6820800000000000000
+      internalID: 2912477201994684265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5808
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704268744dae9ed80800000000000000
+      internalID: -8220781447334190073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 5808
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f270aea8d63250ad0800000000000000
+      internalID: -2736742245168707793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5687
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c3fdeb7a7963d0800000000000000
+      internalID: -3212902186460395895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5687
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53392a8ce3800ceb0800000000000000
+      internalID: -4701748945227705547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5687
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a92613bc862f6dc0800000000000000
+      internalID: -3643651187777590872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5687
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7154abd33dcea71b0800000000000000
+      internalID: -5657949589819734761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 5687
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f7fa51490ed7560800000000000000
+      internalID: 7313248296543158045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5566
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fae04fcc684a3a20800000000000000
+      internalID: 3042824130412997363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5566
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af98a2dba9d2b6c0800000000000000
+      internalID: -4128998576348422233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5566
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dddc0d964cbc2070800000000000000
+      internalID: 8083042442691796439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5566
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b78ea2cd7b36060800000000000000
+      internalID: 6945597206576003941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 5566
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc4334e127473a0800000000000000
+      internalID: -6668579673926743146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5445
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73c3b582c6b5b00800000000000000
+      internalID: 818366677883041747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5445
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c68f437defc3f0800000000000000
+      internalID: -878222322802703504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5445
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f6ae8f28c18d3d0800000000000000
+      internalID: -3181761787889815779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5445
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844d804e59f56b800800000000000000
+      internalID: 627794295445312584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 5445
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b10399e17018ab50800000000000000
+      internalID: 6604546934974906802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5324
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c516805bc2a908700800000000000000
+      internalID: 540601472090923356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5324
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8137e80a4d67475e0800000000000000
+      internalID: -1912773286126783720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5324
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331bc9ee6c39f2e60800000000000000
+      internalID: 7939727150693527859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5324
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c55d61ace8a6a60800000000000000
+      internalID: 7668098314169310226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 5324
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade68e32292d1530800000000000000
+      internalID: 3827260485389446567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5203
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a729e7f49927c0800000000000000
+      internalID: -4095578593627233119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5203
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b561645580ff400800000000000000
+      internalID: 360015657554041727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5203
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15f9d10a3c321150800000000000000
+      internalID: 5841797886489785631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5203
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772097b84418186a0800000000000000
+      internalID: -6448731060020116873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 5203
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34272393430f0ade0800000000000000
+      internalID: -1323794183358352829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5082
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c116a20594a9ea010800000000000000
+      internalID: 1202067790222745884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5082
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c861aa89923720800000000000000
+      internalID: 2824488737007255876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5082
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06baa79baa13c700800000000000000
+      internalID: 559320103010350602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5082
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f5167161cabd350800000000000000
+      internalID: 6042612535929167623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 5082
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7a3207f66c69a10800000000000000
+      internalID: 1915936873417779129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4961
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c33140501404c0800000000000000
+      internalID: -4322311805491492652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4961
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484082bf9a7f92180800000000000000
+      internalID: -9139501659336473468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4961
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da5db57aac2d8bb0800000000000000
+      internalID: -4932236906269418797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4961
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87939c052aa4293b0800000000000000
+      internalID: -5507257333320173192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 4961
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba04e1ea215d51c0800000000000000
+      internalID: -4513362006935074125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4840
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5d46dfd972e640800000000000000
+      internalID: 5107778929671626475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4840
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950dc30ac14e54c0800000000000000
+      internalID: -4296924658561907308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4840
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aaffadc5280f570800000000000000
+      internalID: 8498435832170916471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4840
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b50b0099456b8c90800000000000000
+      internalID: -7166523015406352974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 4840
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d1b17039a9f9c10800000000000000
+      internalID: 2062537110629063944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4719
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82769ad8011a59940800000000000000
+      internalID: 5302321228766865192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4719
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b686db18202610800000000000000
+      internalID: 1594318368117535591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4719
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a659f77326fbd7ec0800000000000000
+      internalID: -3567484901248756374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4719
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a608628165bca60800000000000000
+      internalID: 7695339050017778218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 4719
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bef796e88b37ba0800000000000000
+      internalID: -6092322949107291335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4598
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd88a65da8226c40800000000000000
+      internalID: 5504006419548507584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4598
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d58e217b51a8a4b0800000000000000
+      internalID: -5428911936682162736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4598
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55faf9eaeab1142b0800000000000000
+      internalID: -5602166024404226219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4598
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc1893281aa7ce0800000000000000
+      internalID: -1406634352917230614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 4598
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ee891563a602e00800000000000000
+      internalID: 1017930297315487371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4477
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e437aeeb974cf0800000000000000
+      internalID: -268074203495472103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4477
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ca7621df32d1a0800000000000000
+      internalID: -6786291520967622115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4477
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6122a85e9832d20800000000000000
+      internalID: 3252594974849636017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4477
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b18e9166cc21330800000000000000
+      internalID: 3680228584408488835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 4477
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c508be707eb7e40800000000000000
+      internalID: 5655367778295635008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4356
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda809bfba0672e0800000000000000
+      internalID: -2128501955326595631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4356
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c35872c806701a0800000000000000
+      internalID: -6843394953691448203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4356
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ec9c53f88759be0800000000000000
+      internalID: -1471137146788524410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4356
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5593e5362a951a0800000000000000
+      internalID: -6820241613009627721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 4356
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f9e4588079df2d0800000000000000
+      internalID: -3243270093784834255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4235
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c557741e9da0f0800000000000000
+      internalID: -1104052522897257990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4235
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da30fb700ce934900800000000000000
+      internalID: 667551717381833645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4235
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9786ece16b9ae7090800000000000000
+      internalID: -8034798085516400519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4235
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee519605bf9f38f0800000000000000
+      internalID: -558552228922564882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 4235
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c57b9804a352e980800000000000000
+      internalID: -8511148381792668216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4114
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf3efb7c894f830800000000000000
+      internalID: 4104073144126668282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4114
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27172da80e2cd5fb0800000000000000
+      internalID: -4657352169973714574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4114
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6d12fa787a90b0800000000000000
+      internalID: -5721127907177435737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4114
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dff561f28a35d80800000000000000
+      internalID: -8263075971102409374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 4114
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f878a81331dce5e0800000000000000
+      internalID: -1878896927133107983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3993
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb099de5640e5100800000000000000
+      internalID: 98521077673167796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3993
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a4aac5b71a9ef90800000000000000
+      internalID: -6923825400897713561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3993
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cef28a9f4204a70800000000000000
+      internalID: 8809081525823859868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3993
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2251fcbc662afb0800000000000000
+      internalID: -4638031640699526437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3993
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7005034e6e26cd50800000000000000
+      internalID: 6757139342021689469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3872
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d349232326056d780800000000000000
+      internalID: -8658644850894007235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3872
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f87ef2cefa138150800000000000000
+      internalID: 5873568020516731122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3872
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a4fcd4a8a284e90800000000000000
+      internalID: -7041331243894486452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3872
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a3fd3e02626f90800000000000000
+      internalID: -6961894260652922539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3872
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0ce2b6fc467e920800000000000000
+      internalID: 3019492917194440937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3751
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6deae919048a8f0800000000000000
+      internalID: -529101962039339341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3751
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de66da3a560b8d0800000000000000
+      internalID: -2832652411952763559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3751
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1df8602c534e950800000000000000
+      internalID: 6477361271515632108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3751
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a337df4380ceab420800000000000000
+      internalID: 2646687251026506554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3751
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa4fc80af74adaa0800000000000000
+      internalID: -6135512403123680599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3630
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d9a53febeb00490800000000000000
+      internalID: -7782010428760351452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3630
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50228ee4eba02d960800000000000000
+      internalID: 7625168931575570949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3630
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30f6969345e43800800000000000000
+      internalID: 591349529544421437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3630
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad4da6a8b37d3d0800000000000000
+      internalID: -3182009146030105917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3630
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfd8d96d3ee5d2f0800000000000000
+      internalID: -948590198955384902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3509
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9362ac2f3a99b90800000000000000
+      internalID: -7234571063225075228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3509
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7b233c1db705e80800000000000000
+      internalID: -8191911581333669956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3509
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8d2bf9c8880d5a0800000000000000
+      internalID: -6498544124739528482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3509
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01eb031b4b69d930800000000000000
+      internalID: 4168480900294369546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3509
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba68760f18f76710800000000000000
+      internalID: 1686589397609769652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3388
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ad15f54a8d63f80800000000000000
+      internalID: -8127070277058045436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3388
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d134d090b5def6210800000000000000
+      internalID: 1328541390347256605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3388
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6495dcc1736927380800000000000000
+      internalID: -8974945943945389754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3388
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b104eed950e7d5a80800000000000000
+      internalID: -8476480361051832293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3388
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1a5ad3d8c073070800000000000000
+      internalID: 8085945456731201957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3267
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b327bb65138a310800000000000000
+      internalID: 1416436331389795117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3267
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677fde8fb7c508910800000000000000
+      internalID: 1837570335494240118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3267
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db72e8359650e2610800000000000000
+      internalID: 1598220867694634941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3267
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dd3dd5bc724cd20800000000000000
+      internalID: 3297804581548055961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3267
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7cf028a97afded0800000000000000
+      internalID: -2387004995434199046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3146
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305cf481a8d8af0800000000000000
+      internalID: -392505755489205320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3146
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d962958bfe676ed70800000000000000
+      internalID: 9072069271346554525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3146
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27778857366c9430800000000000000
+      internalID: 3791017374233622316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3146
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55600df4bf4d87af0800000000000000
+      internalID: -398334391181375915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3146
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e576b416a49e6080800000000000000
+      internalID: -9192246348383619608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3025
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f519a4ecf9fe92fa0800000000000000
+      internalID: -5824861173387194017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3025
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6c11c326eef0a60800000000000000
+      internalID: 7642589198353024690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3025
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1f64e3f756f720800000000000000
+      internalID: 2879585716771167173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3025
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dace9c6b34d68090800000000000000
+      internalID: -8032499533678196014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3025
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf43e2d199418470800000000000000
+      internalID: 8395072071052513216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2904
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142efaaeb669ecf60800000000000000
+      internalID: 8056542173655458369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2904
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ae4b69939f43d0800000000000000
+      internalID: -3220192921407020344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2904
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eac28f27690277b0800000000000000
+      internalID: -5228105878640342296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2904
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb12ce365dc7c4580800000000000000
+      internalID: -8841554712488828482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2904
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee5078a699167110800000000000000
+      internalID: 1258221280758357738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2783
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b327e6ed6974198e0800000000000000
+      internalID: -1688489671984778693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2783
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d2a6676e41d3a20800000000000000
+      internalID: 3043611903234026773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2783
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8001600a106e5e560800000000000000
+      internalID: 7342527662151569416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2783
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265f600e4e0d858f0800000000000000
+      internalID: -551461272923212446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2783
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70333bc3db48908e0800000000000000
+      internalID: -1726703033817812217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2662
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc50d8a2a655a340800000000000000
+      internalID: 4874397428315348187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2662
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984a0cc0b5811c980800000000000000
+      internalID: -8520502240673225591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2662
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dd278288c7be160800000000000000
+      internalID: 7055870165442026842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2662
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c6c6cc3b9f390f0800000000000000
+      internalID: -1111270132406260602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2662
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd0e7e0a68b7410800000000000000
+      internalID: 1475921328537132342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2541
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29018eefae9b157a0800000000000000
+      internalID: -6390121977311915886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2541
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea8030052d3a2ab0800000000000000
+      internalID: -5032142404506842392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2541
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4757df88dcd006ab0800000000000000
+      internalID: -5016994808472963724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2541
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db13f8a4a14b230800000000000000
+      internalID: 3653574105236618513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2541
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba8dae5bacc4ade0800000000000000
+      internalID: -1322707354140177740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2420
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f6517e3a92ea60800000000000000
+      internalID: 7701887905737144260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2420
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915d9bb6215586bd0800000000000000
+      internalID: -2636764044220312295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2420
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61526d6ee2a94cb00800000000000000
+      internalID: 847972156084462870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2420
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf17c8933a4ca0ca0800000000000000
+      internalID: -6049806944094621189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2420
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9f2b127f7b6e30800000000000000
+      internalID: 4497828780918676433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2299
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595cc9dccecbc1f20800000000000000
+      internalID: 3394795944378418581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2299
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79275c57626beafb0800000000000000
+      internalID: -4634566690216775017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2299
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855096864c11c780800000000000000
+      internalID: -8664613118853229181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2299
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20514260102a7d800800000000000000
+      internalID: 637155997577909506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2299
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca696c6bb4838d3c0800000000000000
+      internalID: -4334652743503931732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2178
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177155b030ecfd7b0800000000000000
+      internalID: -5197208932491913359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2178
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7042279b1096e770800000000000000
+      internalID: 8639751383330996346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2178
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7276831d1ae0c5c0800000000000000
+      internalID: -4197097442106772867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2178
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1410aadd2973ad80800000000000000
+      internalID: -8240609655309462502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2178
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8526f5a11f15f67d0800000000000000
+      internalID: -2923027537168735656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2057
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed57ed8a29dc8b0800000000000000
+      internalID: -5130283146520699391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2057
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ec570c9b47f4b40800000000000000
+      internalID: 5426684417151454747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2057
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efef92d5963aed50800000000000000
+      internalID: 6767281407189315555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2057
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7153a3391daff60800000000000000
+      internalID: 8068992112654620614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2057
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f931172ec06cc490800000000000000
+      internalID: -7724692822312273420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1936
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90ac5e7273c5f050800000000000000
+      internalID: 5833783788842033310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1936
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c7de4a0f8dcc90800000000000000
+      internalID: -7147899759131901519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1936
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2f9cc905f7ff30800000000000000
+      internalID: 4609422166073486429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1936
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0371ac0082cae2d0800000000000000
+      internalID: -3248570325970881781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1936
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a030cd186f1e91600800000000000000
+      internalID: 439630887502217994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1815
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43162954d7ea97fd0800000000000000
+      internalID: -2343650278008266444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1815
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc0f82401657bef0800000000000000
+      internalID: -92510639501669181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1815
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdecac0c4eddf7e0800000000000000
+      internalID: -1729982263628862014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1815
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ccc93e321f8c30800000000000000
+      internalID: 4363726622412293213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1815
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02b98ffd1ef4ef80800000000000000
+      internalID: -8078052426801106421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1694
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f7a65884be07b0800000000000000
+      internalID: -5256065217432390986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1694
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4367f0952b51f4210800000000000000
+      internalID: 1319297071585392180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1694
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1259fe8941506240800000000000000
+      internalID: 4782912180640633375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1694
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c47161f44df1140800000000000000
+      internalID: 4692702772881476707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1694
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff69beb2dbc734e0800000000000000
+      internalID: -2001907403339501579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1573
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e26be7eef4adbc0800000000000000
+      internalID: -3757603053340578281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1573
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e968b284ce54c330800000000000000
+      internalID: 3730210589469338083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1573
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa3a08896a041750800000000000000
+      internalID: 6274651629204159137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1573
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bead37a63b5b3abf0800000000000000
+      internalID: -314207766796051733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1573
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d45c737ae4e6e0b0800000000000000
+      internalID: -5699616582779775787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e8b44b550b3320800000000000000
+      internalID: 2538628704506537332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1452
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54a7575084465b10800000000000000
+      internalID: 1969837205033034847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1452
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a751963175c7a19d0800000000000000
+      internalID: -2802791104655059590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1452
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b238452bf8308dd0800000000000000
+      internalID: -2485924342995078477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1452
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba2ff9fdd7b78c90800000000000000
+      internalID: -7167558117926950217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1331
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5864303a32735b60800000000000000
+      internalID: 7733650579367684190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1331
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d646be311d99650800000000000000
+      internalID: 6240248642182344075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1331
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c0613c35c30c40800000000000000
+      internalID: 5477438434129789610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1331
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd187b5243113fd0800000000000000
+      internalID: -2364087153669431872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1331
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a70f6dd8cd2136b0800000000000000
+      internalID: -5318419344216094809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1210
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b669b9b5e49bb30800000000000000
+      internalID: 4303557074288536385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1210
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f617758afbf160800000000000000
+      internalID: 7060512291968971930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1210
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875452478704722d0800000000000000
+      internalID: -3303600915564116616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1210
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ee0a2b10ed15b0800000000000000
+      internalID: -5395910371245628919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1210
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fd9bed8cab25010800000000000000
+      internalID: 1176207824590069508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1089
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9bb9e8e731c9df0800000000000000
+      internalID: -172241251467544111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1089
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481c337f0d965cd60800000000000000
+      internalID: 7909844666767622532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1089
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b3506451f350f10800000000000000
+      internalID: 2235262150660930362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1089
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabacd7add9fdff30800000000000000
+      internalID: 4611116323896601519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1089
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a48ef03fee58e90800000000000000
+      internalID: -7023945316103075215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7746390ec74dc2a00800000000000000
+      internalID: 733194472163337335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 968
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac211867318d325b0800000000000000
+      internalID: -5394230350555573558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 968
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a2af7629effe3a0800000000000000
+      internalID: -6633803821330322890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 968
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f2b01ee8a3b9840800000000000000
+      internalID: 5231839777456336665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 968
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e1e3ae175ef6af0800000000000000
+      internalID: -400849564388680172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f38e66281d3f6a10800000000000000
+      internalID: 1904808341334295544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 847
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cb3bfbcdb8ce120800000000000000
+      internalID: 2444482477980630084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 847
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661d774be0a8faa90800000000000000
+      internalID: -7300464675182358170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 847
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb2c357c38d8e060800000000000000
+      internalID: 6983068976414469070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 847
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0e2c1ddfc42e010800000000000000
+      internalID: 1216619502373101753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bab85517d81f810800000000000000
+      internalID: 1797373244203576174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 726
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630fb077d5b4a7230800000000000000
+      internalID: 3637302513856409654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 726
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf195d5695fa6dad0800000000000000
+      internalID: -2677760129929735685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 726
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba0de0bee5af5690800000000000000
+      internalID: -7611182400643724611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 726
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c213a9cc6a8638300800000000000000
+      internalID: 253161069669396780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db8ebd9e7803cf0800000000000000
+      internalID: -274570138783007453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_241
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 605
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6978498fedbb921e0800000000000000
+      internalID: -2222038374803011690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_242
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 605
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0096b41bcaa39690800000000000000
+      internalID: -7596540357241303025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_243
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 605
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae0e25947c5ebe00800000000000000
+      internalID: 1062388217894801058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_244
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 605
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4849cf49900747c80800000000000000
+      internalID: -8325906624644606844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394cf2fc35f869e00800000000000000
+      internalID: 1051185153158661267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_246
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 484
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cacd5088dbca5a0800000000000000
+      internalID: -6508618969545659369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_247
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 484
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f93e47aadc370d0800000000000000
+      internalID: -3426168759509606499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_248
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 484
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f7c3a6ff21af330800000000000000
+      internalID: 3745326928320298893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_249
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 484
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aa570d06aacef20800000000000000
+      internalID: 3453322347077282426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86199dab819f77c0800000000000000
+      internalID: -4071375509020666229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_251
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 363
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036596cf2ae067480800000000000000
+      internalID: -8901911520268954064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_252
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 363
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658db0f0b42ba1580800000000000000
+      internalID: -8855569681825933226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_253
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 363
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb0c7e2c7f928550800000000000000
+      internalID: 6161662595900902372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_254
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 363
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ef8350ab788910800000000000000
+      internalID: 1839856376307771425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bcb12a4347a71f0800000000000000
+      internalID: -1046396194003367077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_256
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 242
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7edd3358f298b30800000000000000
+      internalID: 4290012369194444769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_257
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 242
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e5bd3ce9c4e0330800000000000000
+      internalID: 3678962190382751321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_258
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 242
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ffbfabd10ec6160800000000000000
+      internalID: 7020232337459511088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_259
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 242
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9232c4b9bb38dc7a0800000000000000
+      internalID: -6355278657362320599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b17f0fde6d0170800000000000000
+      internalID: 8146289205298967119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_261
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 121
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fbe1883b30aa790800000000000000
+      internalID: -7518192558323875982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_262
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 121
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaf81b962d16f000800000000000000
+      internalID: 69274895918889709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_263
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 121
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91534b6254361e00800000000000000
+      internalID: 1015056294610162077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_264
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 121
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8531bc6662b10eed0800000000000000
+      internalID: -2386877950759070888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_265
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e04d50179fc3a340800000000000000
+      internalID: 4873967469466566889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_266
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b440912fdd8222460800000000000000
+      internalID: 7215374486715565131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FuelSpritesheet_267
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 212
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9400b61e5d2f92370800000000000000
+      internalID: 8298430788830691401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 40f76b7b59a9b024bbcf9b5cb81ec120
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

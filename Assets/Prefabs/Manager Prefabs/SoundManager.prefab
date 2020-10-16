@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2110668908856968061
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2110668908856968051}
+  - component: {fileID: 2110668908856968060}
+  - component: {fileID: 812421106}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2110668908856968051
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2110668908856968061}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.0799537, y: -8.376996, z: -1046.5206}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2110668908856968060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2110668908856968061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8e407fbdf10bae4dbc650e283fa953c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundList:
+  - audioName: MainTheme
+    audioClip: {fileID: 8300000, guid: 17b2098c063e34b49af78a2ea393f800, type: 3}
+    volume: 0.3
+    mixerGroup: {fileID: 24300002, guid: d4a4a9c9963328e41964dfc28a009a5f, type: 2}
+  - audioName: CrystalBreak
+    audioClip: {fileID: 8300000, guid: fddeedcf4ba98ca43b2b9067b90b4c84, type: 3}
+    volume: 0.02
+    mixerGroup: {fileID: 24300002, guid: 0e6347809203e1b4f9fd221fb4e16a9b, type: 2}
+  - audioName: AsteroidExplosion
+    audioClip: {fileID: 8300000, guid: d05d2824e20d8154b98e93dde765f482, type: 3}
+    volume: 0.6
+    mixerGroup: {fileID: 24300002, guid: 9ff3412c63670ef429440b6d41f874e4, type: 2}
+  - audioName: Thrust
+    audioClip: {fileID: 8300000, guid: 1a65d39b2bd87a4449b7ca7736fa274b, type: 3}
+    volume: 0.3
+    mixerGroup: {fileID: 24300002, guid: 0e6347809203e1b4f9fd221fb4e16a9b, type: 2}
+  - audioName: Landing
+    audioClip: {fileID: 8300000, guid: 0f3837a46e317f543b0e22ffbfe11773, type: 3}
+    volume: 0.2
+    mixerGroup: {fileID: 24300002, guid: 0e6347809203e1b4f9fd221fb4e16a9b, type: 2}
+  - audioName: Mining
+    audioClip: {fileID: 8300000, guid: a6a305917a47d6e40b767b20e7dd110d, type: 3}
+    volume: 0.45
+    mixerGroup: {fileID: 24300002, guid: 0e6347809203e1b4f9fd221fb4e16a9b, type: 2}
+  - audioName: Collision1
+    audioClip: {fileID: 8300000, guid: 512740c2aab64dd43ae238274b4b26ba, type: 3}
+    volume: 0.3
+    mixerGroup: {fileID: 24300002, guid: 0e6347809203e1b4f9fd221fb4e16a9b, type: 2}
+  - audioName: Collision2
+    audioClip: {fileID: 8300000, guid: 0c2ef3bfac5918e46bfc5cc2cf5854ed, type: 3}
+    volume: 0.3
+    mixerGroup: {fileID: 24300002, guid: 0e6347809203e1b4f9fd221fb4e16a9b, type: 2}
+  - audioName: Collision3
+    audioClip: {fileID: 8300000, guid: d95cddb8aec9f174eb0db42b15baeac7, type: 3}
+    volume: 0.3
+    mixerGroup: {fileID: 24300002, guid: 0e6347809203e1b4f9fd221fb4e16a9b, type: 2}
+  - audioName: Collision4
+    audioClip: {fileID: 8300000, guid: c5c837f74d13e05448862c187ae67d72, type: 3}
+    volume: 0.3
+    mixerGroup: {fileID: 24300002, guid: 0e6347809203e1b4f9fd221fb4e16a9b, type: 2}
+  - audioName: Achievement
+    audioClip: {fileID: 8300000, guid: 6076998a32f25814e9f98248c0a77304, type: 3}
+    volume: 0.4
+    mixerGroup: {fileID: 24300002, guid: 9ff3412c63670ef429440b6d41f874e4, type: 2}
+  - audioName: Fail
+    audioClip: {fileID: 8300000, guid: e629a74a3e330424abbd169f82c68fe8, type: 3}
+    volume: 0.1
+    mixerGroup: {fileID: 24300002, guid: 9ff3412c63670ef429440b6d41f874e4, type: 2}
+  - audioName: MainMenu
+    audioClip: {fileID: 8300000, guid: c693c6cdaf2ba744794c036ab277cd47, type: 3}
+    volume: 0.3
+    mixerGroup: {fileID: 24300002, guid: 9ff3412c63670ef429440b6d41f874e4, type: 2}
+  - audioName: LockedOntoCrystal
+    audioClip: {fileID: 8300000, guid: 274d5699b59d2434aac8545527a0c0c9, type: 3}
+    volume: 0
+    mixerGroup: {fileID: 24300002, guid: 0e6347809203e1b4f9fd221fb4e16a9b, type: 2}
+  - audioName: Release
+    audioClip: {fileID: 8300000, guid: fab3edc0df464e540ba030aa0a3c6d63, type: 3}
+    volume: 0.4
+    mixerGroup: {fileID: 24300002, guid: 0e6347809203e1b4f9fd221fb4e16a9b, type: 2}
+  mixer: {fileID: 24100000, guid: d4a4a9c9963328e41964dfc28a009a5f, type: 2}
+--- !u!114 &812421106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2110668908856968061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9c600d9ab5aeb04faf7d5971d914de6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theme: MainTheme

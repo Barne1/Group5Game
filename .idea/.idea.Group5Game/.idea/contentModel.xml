@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Hugo.Lindroth\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hugo.Lindroth\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Group5Game.-1122374951.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Hugo.Lindroth\Perforce\Hugo.Lindroth_FG19033_7533\FG20FT_GP_Team_5\Group5Game" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Debug" t="Include">
+          <e p="Hugo" t="Include">
+            <e p="QuickSortTest.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Materials" t="Include">
+          <e p="FireFX 1.shader" t="Include" />
+          <e p="FireFX.shader" t="Include" />
+          <e p="LaserFX.shader" t="Include" />
+          <e p="MM_Asset.shader" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Asteroids" t="Include">
+            <e p="Asteroid.cs" t="Include" />
+            <e p="Asteroid3D.cs" t="Include" />
+            <e p="AsteroidManager.cs" t="Include" />
+            <e p="AsteroidManager3D.cs" t="Include" />
+            <e p="Crystal.cs" t="Include" />
+            <e p="Debris.cs" t="Include" />
+            <e p="Knockable.cs" t="Include" />
+            <e p="MeteorManager.cs" t="Include" />
+          </e>
+          <e p="Camera" t="Include">
+            <e p="PlayerCamera.cs" t="Include" />
+          </e>
+          <e p="Cheats" t="Include">
+            <e p="CheatCommand.cs" t="Include" />
+            <e p="CheatMenu.cs" t="Include" />
+          </e>
+          <e p="LandingPads" t="Include">
+            <e p="LandingPad.cs" t="Include" />
+            <e p="LandingPadCollider.cs" t="Include" />
+            <e p="LandingPadManager.cs" t="Include" />
+          </e>
+          <e p="Manager Scripts" t="Include">
+            <e p="PoolManager.cs" t="Include" />
+          </e>
+          <e p="Menus" t="Include">
+            <e p="Leaderboard.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
+          </e>
+          <e p="Mining" t="Include">
+            <e p="MineralStorage.cs" t="Include" />
+            <e p="Mining.cs" t="Include" />
+          </e>
+          <e p="PlayerController" t="Include">
+            <e p="LanderControllerClassic.cs" t="Include" />
+            <e p="ModelRotate.cs" t="Include" />
+            <e p="PlayerDamage.cs" t="Include" />
+            <e p="PlayerManager.cs" t="Include" />
+          </e>
+          <e p="Quicksort.cs" t="Include" />
+          <e p="ScriptableObjects" t="Include">
+            <e p="LeaderboardList.cs" t="Include" />
+            <e p="RocketStats.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="ArrowManager.cs" t="Include" />
+            <e p="EndScreen.cs" t="Include" />
+            <e p="FuelIndicator.cs" t="Include" />
+            <e p="ScoreText.cs" t="Include" />
+            <e p="StorageUI.cs" t="Include" />
+            <e p="UIBar.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+          </e>
+          <e p="VFX" t="Include">
+            <e p="CrystalGlow.cs" t="Include" />
+            <e p="FireBurnVFX.cs" t="Include" />
+            <e p="SmokeVFX.cs" t="Include" />
+            <e p="SparksVFX.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Group5Game.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bcae9a5-0a0b-4f34-b50e-a923059a4086" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VFX/SmokeVFX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VFX/CrystalGlow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/UIBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Quicksort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/StorageUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VFX/SparksVFX.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ExtensionMethods/ExtensionVectors.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/StorageUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mining/MineralStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mining/Mining.cs" />
+        <option value="$PROJECT_DIR$/Assets/Debug/Hugo/QuickSortTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Quicksort.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LandingPads/LandingPadManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LandingPads/LandingPad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController/ModelRotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VFX/SmokeVFX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VFX/SparksVFX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController/PlayerDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController/LanderControllerClassic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Asteroids/Crystal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VFX/CrystalGlow.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iaT2LnE5AbUDFkiqvCYYEMpmJl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bcae9a5-0a0b-4f34-b50e-a923059a4086" name="Default Changelist" comment="" />
+      <created>1602144497917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602144497917</updated>
+      <workItem from="1602144505765" duration="22806000" />
+      <workItem from="1602493164804" duration="174000" />
+      <workItem from="1602493396954" duration="2545000" />
+      <workItem from="1602499855602" duration="13482000" />
+      <workItem from="1602668100477" duration="3690000" />
+      <workItem from="1602682169088" duration="6640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2007" y="2" width="1380" height="1028" maximized="true" key="dock-window-1" timestamp="1602516935774">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2007" y="2" width="1380" height="1028" maximized="true" key="dock-window-1/1920.2.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602516935774" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602493276328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.2.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602493276328" />
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602678221616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.2.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602678221616" />
+  </component>
+</project>

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FireFX
+  m_Shader: {fileID: 4800000, guid: 2d279c417a3b6f748ae784942323aab1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 3f6bc15b91f423f44a133386ff1a2f46, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Fire_Power_Opacity: 2.1
+    - __dirty: 0
+    m_Colors:
+    - _Color0: {r: 12.36078, g: 0, b: 0, a: 0}
+    - _Distortion_Angle: {r: 2.78, g: 0, b: 0, a: 0}
+    - _Distortion_Speed: {r: 0, g: 0, b: 0, a: 0}
+    - _Fire_Color: {r: 0, g: 0.16747239, b: 0.9137255, a: 0}
+    - _Fire_Speed: {r: 0, g: 2, b: 0, a: 0}
+    - _Fire_Top_Gradient: {r: 8.9439335, g: 2.286689, b: 0.56251055, a: 0}
+    - _Multiply: {r: 2.286369, g: 2.1406147, b: 2.1281927, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
